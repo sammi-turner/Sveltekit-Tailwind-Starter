@@ -8,7 +8,7 @@ My personal sveltekit template.
 git clone https://github.com/sammi-turner/Sveltekit-Tailwind-Starter/
 ```
 
-## To make it your working directory
+## Change to the working directory
 
 ```
 cd Sveltekit-Tailwind-Starter
