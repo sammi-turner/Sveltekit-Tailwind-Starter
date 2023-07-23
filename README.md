@@ -11,7 +11,7 @@ git clone https://github.com/sammi-turner/Sveltekit-Tailwind-Starter/
 ## To make it your working directory
 
 ```
-cd Sveltekit-Tailwind-Start
+cd Sveltekit-Tailwind-Starter
 ```
 
 ## To install node modules
