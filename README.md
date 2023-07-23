@@ -2,7 +2,7 @@
 
 My personal sveltekit template.
 
-## Prequisites
+## Prerequisites
 
 Make sure you have node and pnpm installed.
 
