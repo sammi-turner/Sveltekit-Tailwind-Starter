@@ -4,24 +4,23 @@ My personal sveltekit template.
 
 ## To clone this repo
 
-Run
-
 ```
 git clone https://github.com/sammi-turner/Sveltekit-Tailwind-Starter/
 ```
 
-## To install node modules
+## To make it your working directory
 
-From the root directory, run
+```
+cd Sveltekit-Tailwind-Start
+```
+
+## To install node modules
 
 ```
 pnpm i
 ```
 
-
 ## To run the dev server
-
-From the root directory, run
 
 ```
 pnpm run dev
