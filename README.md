@@ -2,6 +2,10 @@
 
 My personal sveltekit template.
 
+## Prequisites
+
+Make sure you have node and pnpm installed.
+
 ## To clone this repo
 
 ```
