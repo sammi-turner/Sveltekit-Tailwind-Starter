@@ -2,9 +2,13 @@
 
 My personal [Sveltekit, Tailwind and Netlify](https://sveltekit-tailwind-starter.netlify.app/) starter template.
 
+<br>
+
 ## Prerequisites
 
 Make sure that you have node and pnpm installed.
+
+<br>
 
 ## To clone this repo
 
@@ -12,11 +16,15 @@ Make sure that you have node and pnpm installed.
 git clone https://github.com/sammi-turner/Sveltekit-Tailwind-Starter/
 ```
 
+<br>
+
 ## Change to the working directory
 
 ```
 cd Sveltekit-Tailwind-Starter
 ```
+
+<br>
 
 ## To install node modules
 
@@ -24,11 +32,15 @@ cd Sveltekit-Tailwind-Starter
 pnpm i
 ```
 
+<br>
+
 ## To run the dev server
 
 ```
 pnpm run dev
 ```
+
+<br>
 
 ## Netlify Deployment
 
