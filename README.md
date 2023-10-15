@@ -1,3 +1,5 @@
+<br>
+
 # Sveltekit-Tailwind-Starter
 
 My personal starter template.
@@ -49,3 +51,5 @@ Follow the instructions [in the official docs](https://kit.svelte.dev/docs/adapt
 Make sure that everything in the project apart from the node modules is uploaded to a github repo and that the repo is properly linked on Netlify.
 
 Note that drag-and-drop deploys do NOT work with Sveltekit, and the process is different from a deploying a plain Svelte/Vite app.
+
+<br>
