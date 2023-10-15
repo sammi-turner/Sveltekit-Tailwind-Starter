@@ -1,6 +1,6 @@
 # Sveltekit-Tailwind-Starter
 
-My personal [Sveltekit, Tailwind and Netlify](https://sveltekit-tailwind-starter.netlify.app/) starter template.
+My personal starter template.
 
 <br>
 
